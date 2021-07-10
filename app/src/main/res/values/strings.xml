@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PL-app</string>
+
+    <string-array name="football_clubs">
+        <item>Chelsea</item>
+        <item>Manchester City</item>
+        <item>Liverpool</item>
+        <item>Manchester United</item>
+        <item>Leicester City</item>
+        <item>Arsenal</item>
+        <item>West Ham United</item>
+        <item>Everton</item>
+        <item>Tottenham Hotspur</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>English Premier League club.</item>
+        <item>English Premier League club.</item>
+        <item>English Premier League club.</item>
+        <item>English Premier League club.</item>
+        <item>English Premier League club.</item>
+        <item>English Premier League club.</item>
+        <item>English Premier League club.</item>
+        <item>English Premier League club.</item>
+        <item>English Premier League club.</item>
+
+    </string-array>
+</resources>
